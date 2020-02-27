@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  corewebapp:
+    image: corewebapp
+    build: .
+    ports:
+      - 8084:80

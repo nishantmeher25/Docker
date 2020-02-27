@@ -1,0 +1,8 @@
+/src/bin/Release/netcoreapp1.1/corewebapp.deps.json
+/src/bin/Release/netcoreapp1.1/corewebapp.runtimeconfig.json
+/src/bin/Release/netcoreapp1.1/corewebapp.runtimeconfig.dev.json
+/src/bin/Release/netcoreapp1.1/corewebapp.dll
+/src/bin/Release/netcoreapp1.1/corewebapp.pdb
+/src/obj/Release/netcoreapp1.1/corewebapp.AssemblyInfo.cs
+/src/obj/Release/netcoreapp1.1/corewebapp.dll
+/src/obj/Release/netcoreapp1.1/corewebapp.pdb
